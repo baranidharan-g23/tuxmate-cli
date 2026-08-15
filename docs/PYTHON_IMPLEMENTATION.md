@@ -2,7 +2,7 @@
 
 While [tuxmate](https://github.com/abusoww/tuxmate) (the web app) uses TypeScript for browser-based script generation, **tuxmate-cli** implements the same logic in Python for Linux terminal usage.
 
-## Why Python Instead of TypeScript?
+## Why Python Instead of TypeScript??
 
 ### Tuxmate's Context
 - Web application running in browsers
